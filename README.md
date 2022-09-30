@@ -4,6 +4,11 @@ AI-Generated Images using Tensorflow Keras & PyTorch
 ![dcgan1](https://user-images.githubusercontent.com/104868606/193229308-7e78f9f4-cb45-463a-a503-e40ba5f843db.gif)
 
 
+Keras DCGAN
+
+
+![download](https://user-images.githubusercontent.com/104868606/193232636-5efc8cd6-b344-40a3-8a0a-bc70fab83ec3.png)
+
 
 Keras DCGAN BAYC
 
