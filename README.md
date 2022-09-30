@@ -1,4 +1,7 @@
 AI-Generated Images using Tensorflow Keras & PyTorch
+more examples:
+https://opensea.io/jbrussell
+
 
 
 ![dcgan1](https://user-images.githubusercontent.com/104868606/193229308-7e78f9f4-cb45-463a-a503-e40ba5f843db.gif)
