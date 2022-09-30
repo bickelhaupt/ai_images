@@ -1,8 +1,7 @@
 AI-Generated Images using Tensorflow Keras & PyTorch
 
-[![image](https://user-images.githubusercontent.com/104868606/193229048-e6d556e9-6c70-48ac-b3a1-036e53da7248.png)
-](https://github.com/bickelhaupt/ai_images/blob/main/dcgan1.gif?raw=true)
 
+![dcgan1](https://user-images.githubusercontent.com/104868606/193229308-7e78f9f4-cb45-463a-a503-e40ba5f843db.gif)
 
 
 
